@@ -1,1 +1,1 @@
-KIRYL VALASEVICH HTML CSS Basics: https://htmlacademy.ru/profile/teame92/achievements# rsschool-cv
+[https://teame92.github.io/rsschool-cv/cv](https://teame92.github.io/rsschool-cv/cv)
