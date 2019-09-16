@@ -1,16 +1,16 @@
 # Kiryl Valasevich
 
-## Contact Info
-* Email: [keriaz@mail.ru])(http://keriaz@mail.ru)
+**Contact Info**
+* Email: [keriaz@mail.ru]
 * Phone: +375297225668
 
-## Summary
+**Summary**
 27 years, dealer
 
-## Skills
+**Skills**
 * HTML & CSS
 * Javascript
 * Git
 
-## Education
+**Education**
 * Brest State Technical University
