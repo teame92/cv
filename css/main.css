@@ -14,7 +14,7 @@ body {
     align-items: center;
     text-align: center;
     padding: 25px;
-    background: #106a80;
+    background: repeating-linear-gradient(45deg, #47484a, #7fbc60 10px, #465298 10px, #00ff66 20px);
     color: #fff;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
 }
@@ -51,8 +51,9 @@ main p,
 }
 
 aside {
-    background-color:#42a8c0;
+    background: repeating-radial-gradient(#c7c5c6, #7f1bce 95%, #f9f9f9 98%);
     color:#fff;
+    width: 187px;
 }
 
 a {
@@ -123,8 +124,9 @@ aside .languages-container .lang-desc {
     color: rgba(255, 255, 255, 0.5);
 }
 
-aside .interests-list {
+aside .interests-list, .contact-list{
     margin-bottom: 0;
+    padding-left: 0px;
 }
 
 aside .interests-list li {
@@ -153,7 +155,6 @@ aside .interests-list li:last-child {
     margin-bottom: 60px;
 }
 
-
 pre {
 background: rgba(55, 59, 65, 0.5);
 width: 740px;
@@ -180,4 +181,9 @@ code {
 
 .main-wrapper .projects-section {
     margin-bottom: 15px;
+}
+
+.main-footer{
+    text-align: center;
+    padding: 30px 0;
 }
